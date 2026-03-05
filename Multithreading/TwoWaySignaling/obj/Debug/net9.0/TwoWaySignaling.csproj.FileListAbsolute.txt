@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\bin\Debug\net9.0\TwoWaySignaling.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\bin\Debug\net9.0\TwoWaySignaling.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\bin\Debug\net9.0\TwoWaySignaling.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\bin\Debug\net9.0\TwoWaySignaling.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\bin\Debug\net9.0\TwoWaySignaling.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\refint\TwoWaySignaling.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\TwoWaySignaling.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\twowaysignaling\obj\Debug\net9.0\ref\TwoWaySignaling.dll

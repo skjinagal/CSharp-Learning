@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\bin\Debug\net9.0\ThreadSyncOverview.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\bin\Debug\net9.0\ThreadSyncOverview.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\bin\Debug\net9.0\ThreadSyncOverview.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\bin\Debug\net9.0\ThreadSyncOverview.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\bin\Debug\net9.0\ThreadSyncOverview.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\refint\ThreadSyncOverview.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ThreadSyncOverview.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\threadsyncoverview\obj\Debug\net9.0\ref\ThreadSyncOverview.dll

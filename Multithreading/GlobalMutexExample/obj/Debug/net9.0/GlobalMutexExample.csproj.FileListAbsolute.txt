@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\bin\Debug\net9.0\GlobalMutexExample.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\bin\Debug\net9.0\GlobalMutexExample.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\bin\Debug\net9.0\GlobalMutexExample.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\bin\Debug\net9.0\GlobalMutexExample.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\bin\Debug\net9.0\GlobalMutexExample.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\refint\GlobalMutexExample.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\GlobalMutexExample.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\globalmutexexample\obj\Debug\net9.0\ref\GlobalMutexExample.dll

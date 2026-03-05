@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\bin\Debug\net9.0\DivideAndConquer.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\bin\Debug\net9.0\DivideAndConquer.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\bin\Debug\net9.0\DivideAndConquer.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\bin\Debug\net9.0\DivideAndConquer.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\bin\Debug\net9.0\DivideAndConquer.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\refint\DivideAndConquer.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\DivideAndConquer.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\DivideAndConquer\obj\Debug\net9.0\ref\DivideAndConquer.dll

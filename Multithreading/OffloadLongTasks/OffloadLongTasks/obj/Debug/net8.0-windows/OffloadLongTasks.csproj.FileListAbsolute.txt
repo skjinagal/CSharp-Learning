@@ -1,0 +1,16 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\bin\Debug\net8.0-windows\OffloadLongTasks.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\bin\Debug\net8.0-windows\OffloadLongTasks.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\bin\Debug\net8.0-windows\OffloadLongTasks.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\bin\Debug\net8.0-windows\OffloadLongTasks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\bin\Debug\net8.0-windows\OffloadLongTasks.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.Form1.resources
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.csproj.GenerateResource.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\refint\OffloadLongTasks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\OffloadLongTasks.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\Multithreading\OffloadLongTasks\OffloadLongTasks\obj\Debug\net8.0-windows\ref\OffloadLongTasks.dll

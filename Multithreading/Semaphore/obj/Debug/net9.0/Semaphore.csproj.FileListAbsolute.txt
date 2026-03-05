@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\bin\Debug\net9.0\Semaphore.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\bin\Debug\net9.0\Semaphore.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\bin\Debug\net9.0\Semaphore.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\bin\Debug\net9.0\Semaphore.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\bin\Debug\net9.0\Semaphore.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\refint\Semaphore.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\Semaphore.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\semaphore\obj\Debug\net9.0\ref\Semaphore.dll

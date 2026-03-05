@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\bin\Debug\net9.0\NestedLocks.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\bin\Debug\net9.0\NestedLocks.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\bin\Debug\net9.0\NestedLocks.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\bin\Debug\net9.0\NestedLocks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\bin\Debug\net9.0\NestedLocks.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\refint\NestedLocks.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\NestedLocks.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\nestedlocks\obj\Debug\net9.0\ref\NestedLocks.dll

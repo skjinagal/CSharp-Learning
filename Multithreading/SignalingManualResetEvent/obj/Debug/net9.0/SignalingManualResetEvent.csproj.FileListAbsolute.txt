@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\bin\Debug\net9.0\SignalingManualResetEvent.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\bin\Debug\net9.0\SignalingManualResetEvent.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\bin\Debug\net9.0\SignalingManualResetEvent.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\bin\Debug\net9.0\SignalingManualResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\bin\Debug\net9.0\SignalingManualResetEvent.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\refint\SignalingManualResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\SignalingManualResetEvent.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingManualResetEvent\obj\Debug\net9.0\ref\SignalingManualResetEvent.dll

@@ -1,0 +1,14 @@
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\bin\Debug\net9.0\SignalingAutoResetEvent.exe
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\bin\Debug\net9.0\SignalingAutoResetEvent.deps.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\bin\Debug\net9.0\SignalingAutoResetEvent.runtimeconfig.json
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\bin\Debug\net9.0\SignalingAutoResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\bin\Debug\net9.0\SignalingAutoResetEvent.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.AssemblyInfo.cs
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\refint\SignalingAutoResetEvent.dll
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.pdb
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\SignalingAutoResetEvent.genruntimeconfig.cache
+C:\Users\z004unwj\Documents\TinkeringHub\SK Repo\C# Learnings\multithreading\SignalingAutoResetEvent\obj\Debug\net9.0\ref\SignalingAutoResetEvent.dll
